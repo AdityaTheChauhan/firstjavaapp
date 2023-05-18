@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//lastest update
 public class FirstLetterUppercaseNoDigits 
 {
     public static void main(String[] args) 
